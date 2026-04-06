@@ -12,8 +12,9 @@ HPC Optimized: Pre-configured with high-performance computing settings, includin
 
 ### 🚀 Usage
 Run the script by providing a Gaussian .log file from a previous optimization:
-```bash
+
 python auto_gaussian_1d_scan_from_log_bonded.py optimized.log
+
 ### 🔄 Workflow Details
 Read Geometry: Extracts the final optimized Standard Orientation from the Gaussian log.
 
